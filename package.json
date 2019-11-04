@@ -1,0 +1,23 @@
+{
+  "name": "travel-unravel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/equality509/Travel-Unravel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/equality509/Travel-Unravel/issues"
+  },
+  "homepage": "https://github.com/equality509/Travel-Unravel#readme",
+  "dependencies": {
+    "jquery": "^3.4.1",
+    "normalize.css": "^8.0.1"
+  }
+}
